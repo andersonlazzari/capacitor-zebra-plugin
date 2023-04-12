@@ -1,0 +1,1 @@
+# capacitor-zebra-plugin
